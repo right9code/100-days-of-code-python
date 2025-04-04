@@ -1,22 +1,22 @@
 # Day 1 - Beginner - Working with Variables in Python to Manage Data
 ## Concepts Practised :
-- [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task1.py)Printing to the Console in Python
+- [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task1.py)Printing to the Console in Python
 - String Manipulation and Code Intelligence
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task2.py)Print modifier: also to avoid "double quotes" to be identified as command use 'single quotes' to differentiate.
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task2.py)Also we can use "\" backslash to tell the interpreter to ignore the "double quotes or 'single quotes' as command.
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task3.py)Adding a line break or adding new line with "\n".
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task3.py)String Concatenation: Combining Strings with "+".
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task3.py)3 methods of adding space between strings.
-- [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task4.py)Debugging
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task3.py)Basic Errors like "syntax error', ' indentation error'.
-- [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task5.py)The Python Input Function
-- [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task6.py)Python Variables
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task7.py) len = character count(length) variable
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task8.py)Switching Variables with the help of third variable.
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task2.py)Print modifier: also to avoid "double quotes" to be identified as command use 'single quotes' to differentiate.
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task2.py)Also we can use "\" backslash to tell the interpreter to ignore the "double quotes or 'single quotes' as command.
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task3.py)Adding a line break or adding new line with "\n".
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task3.py)String Concatenation: Combining Strings with "+".
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task3.py)3 methods of adding space between strings.
+- [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task4.py)Debugging
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task3.py)Basic Errors like "syntax error', ' indentation error'.
+- [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task5.py)The Python Input Function
+- [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task6.py)Python Variables
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task7.py) len = character count(length) variable
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task8.py)Switching Variables with the help of third variable.
 - Variable Naming
-    - [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task9.py)Naming Variable.
+    - [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task9.py)Naming Variable.
         - Can't use space in names of variable "user name" it should one single word you can use "_" though "user_name".
         - You can't start the name of a variable with a no. "1abhi" you can end with it though "abhi1".
         - Don't use name of functions like "print","input" etc. as variable to avoid confusion and as a better practice.
         - Python shows variable typo as NameError.
-- ### [🔗 ](C:\Users\Administrator\right9code\100-days-of-code-python\day1\task10.py)Created A Band Name Generator Program
+- ### [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task10.py)Created A Band Name Generator Program

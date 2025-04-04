@@ -19,4 +19,4 @@
         - You can't start the name of a variable with a no. "1abhi" you can end with it though "abhi1".
         - Don't use name of functions like "print","input" etc. as variable to avoid confusion and as a better practice.
         - Python shows variable typo as NameError.
-- ### [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task1.py)Created A Band Name Generator Program
+- ### [🔗 ](https://github.com/right9code/100-days-of-code-python/blob/main/day1/task10.py)Created A Band Name Generator Program

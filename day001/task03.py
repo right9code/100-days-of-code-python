@@ -9,5 +9,5 @@ print("Hello " + "Abhi")
 print("Hello" + " Abhi")
 print("Hello" + " " + "Abhi")
 
-# syntax error: Misplaced, missing, or mismatched punctuation
-# indentation error: error with spaces
+# syntax_error= Misplaced, missing, or mismatched punctuation
+# indentation_error = error with spaces

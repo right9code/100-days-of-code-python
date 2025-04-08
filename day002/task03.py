@@ -1,0 +1,6 @@
+# DATA TYPE 03
+
+# Float: numbers with decimal points. e.g. 12.564,1.233...
+# Same as integer you can simply write them...
+
+print(12.456 + 2.644)

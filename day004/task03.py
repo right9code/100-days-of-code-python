@@ -14,11 +14,11 @@ states_of_matter[3] = "PLASMA"
 
 states_of_matter.append("chaos")
 # adding a new entry to the end of the list by using append..
-
 print(states_of_matter)
 
-states_of_matter.extend(["xxx", "yyy", "zzz",])
 
+states_of_matter.extend(["xxx", "yyy", "zzz",])
+# add multiple new entries to the end of the list by using extend..
 print(states_of_matter)
 
 

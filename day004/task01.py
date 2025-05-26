@@ -3,7 +3,7 @@
 import random
 # import the module to use..
 
-random_integer = random.randint(1, 3)
+random_integer = random.randint(1, 10)
 # create a variable that selects random integer FROM 1 to 10
 
 print(random_integer)
